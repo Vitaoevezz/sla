@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minha Primeira Página</title>
+</head>
+<body>
+    <h1>Olá, mundo! Eu sou o Vitor</h1>
+    <p>Essa é minha primeira página HTML.</p>
+    <p>Estou estudando no IFPR e quero fazer Engenharia de Software.</p>
+    
+    <h2>Por que HTML é importante?</h2>
+    <ul>
+        <li>É a base de todo site</li>
+        <li>Fácil de aprender</li>
+        <li>Funciona junto com CSS e JavaScript</li>
+    </ul>
+
+    <a href="https://www.google.com">Ir para o Google</a>
+</body>
+</html>
